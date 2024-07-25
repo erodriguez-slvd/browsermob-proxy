@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/workspace.xml
+/.settings/
+/reports/
+/target/
+/videos/
+/.gitignore
+/.idea/
+/src/test/resources/
